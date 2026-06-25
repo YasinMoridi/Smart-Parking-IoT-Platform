@@ -233,19 +233,26 @@ This project demonstrates:
 
 ---
 
-# 📱 Application Screenshots
+## 📱 Application Screenshots
 
-<p align="center">
-  <img src="./docs/app-dashboard.png" width="250"/>
-  <img src="./docs/app-history.png" width="250"/>
-  <img src="./docs/app-settings.png" width="250"/>
-</p>
-
-<p align="center">
-  <b>Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>History</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Remote Control</b>
-</p>
+<table align="center">
+  <tr>
+    <th>Dashboard</th>
+    <th>Event History</th>
+    <th>Remote Control</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./docs/app-dashboard.png" width="240"/>
+    </td>
+    <td>
+      <img src="./docs/app-history.png" width="240"/>
+    </td>
+    <td>
+      <img src="./docs/app-settings.png" width="240"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
