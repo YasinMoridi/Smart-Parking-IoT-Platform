@@ -235,42 +235,36 @@ This project demonstrates:
 
 # 📱 Application Screenshots
 
-### Dashboard Screen
-
-Displays current vehicle count, available spaces, occupancy statistics, and parking status.
-
-<img src="./docs/app-dashboard.png" width="350">
-
----
-
-### Event History Screen
-
-Shows recent parking events such as vehicle entry, exit, gate operations, and parking alerts.
-
-<img src="./docs/app-history.png" width="350">
-
----
-
-### Remote Gate Control
-
-Allows administrators to remotely control entry and exit gates.
-
-<img src="./docs/app-settings.png" width="350">
-
----
-
-### Proteus Simulation
-
-Embedded system simulation including sensors, LCD, gates, and ATmega16 firmware.
-
-<img src="./docs/proteus-simulation.png" width="700">
-
----
-
-## Application Demo
+<p align="center">
+  <img src="./docs/app-dashboard.png" width="250"/>
+  <img src="./docs/app-history.png" width="250"/>
+  <img src="./docs/app-settings.png" width="250"/>
+</p>
 
 <p align="center">
-  <img src="./docs/App.gif" width="700" alt="Application Demo">
+  <b>Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>History</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Remote Control</b>
+</p>
+
+---
+
+# 🖥️ Proteus Simulation
+
+<p align="center">
+  <img src="./docs/proteus-simulation.png" width="600"/>
+</p>
+
+<p align="center">
+  Embedded system simulation including sensors, LCD, gates, and ATmega16 firmware.
+</p>
+
+---
+
+# 🎥 Application Demo
+
+<p align="center">
+  <img src="./docs/App.gif" width="600" alt="Application Demo"/>
 </p>
 
 ---
