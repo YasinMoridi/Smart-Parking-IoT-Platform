@@ -216,6 +216,65 @@ This project demonstrates:
 
 ---
 
+# 📋 Feature Overview
+
+| Feature                        | Description                                            |
+| ------------------------------ | ------------------------------------------------------ |
+| 🚗 Vehicle Counting            | Automatically tracks vehicle entry and exit            |
+| 📊 Live Dashboard              | Displays real-time parking statistics                  |
+| 🅿️ Capacity Monitoring        | Shows total capacity and available spaces              |
+| 📡 Real-Time Communication     | Instant synchronization between MCU and Android        |
+| 📜 Event History               | Stores and displays recent parking events              |
+| 🚪 Remote Gate Control         | Open entry and exit gates from the mobile app          |
+| 🔄 Bidirectional Communication | Android and microcontroller exchange commands and data |
+| 🖥️ LCD Monitoring             | Parking information displayed on 16x2 LCD              |
+| 🔴 Full Parking Detection      | Detects when parking reaches maximum capacity          |
+| 🐍 Python Bridge               | Connects UART communication with Android sockets       |
+
+---
+
+# 📱 Application Screenshots
+
+### Dashboard Screen
+
+Displays current vehicle count, available spaces, occupancy statistics, and parking status.
+
+<img src="./docs/app-dashboard.jpg" width="350">
+
+---
+
+### Event History Screen
+
+Shows recent parking events such as vehicle entry, exit, gate operations, and parking alerts.
+
+<img src="./docs/app-history.jpg" width="350">
+
+---
+
+### Remote Gate Control
+
+Allows administrators to remotely control entry and exit gates.
+
+<img src="./docs/app-settings.jpg" width="350">
+
+---
+
+### Proteus Simulation
+
+Embedded system simulation including sensors, LCD, gates, and ATmega16 firmware.
+
+<img src="./docs/proteus-simulation.jpg" width="700">
+
+---
+
+## Application Demo
+
+<p align="center">
+  <img src="./docs/App.gif" width="700" alt="Application Demo">
+</p>
+
+---
+
 # ⚠️ Project Status
 
 This project was developed as an educational IoT and embedded systems demonstration project.
