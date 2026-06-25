@@ -239,7 +239,7 @@ This project demonstrates:
 
 Displays current vehicle count, available spaces, occupancy statistics, and parking status.
 
-<img src="./docs/app-dashboard.jpg" width="350">
+<img src="./docs/app-dashboard.png" width="350">
 
 ---
 
@@ -247,7 +247,7 @@ Displays current vehicle count, available spaces, occupancy statistics, and park
 
 Shows recent parking events such as vehicle entry, exit, gate operations, and parking alerts.
 
-<img src="./docs/app-history.jpg" width="350">
+<img src="./docs/app-history.png" width="350">
 
 ---
 
@@ -255,7 +255,7 @@ Shows recent parking events such as vehicle entry, exit, gate operations, and pa
 
 Allows administrators to remotely control entry and exit gates.
 
-<img src="./docs/app-settings.jpg" width="350">
+<img src="./docs/app-settings.png" width="350">
 
 ---
 
@@ -263,7 +263,7 @@ Allows administrators to remotely control entry and exit gates.
 
 Embedded system simulation including sensors, LCD, gates, and ATmega16 firmware.
 
-<img src="./docs/proteus-simulation.jpg" width="700">
+<img src="./docs/proteus-simulation.png" width="700">
 
 ---
 
